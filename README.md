@@ -7,6 +7,7 @@ VScode彩虹屁插件 [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-
 <p align="center">
 <strong>「 2023.6.23 雷电影生日快乐！ 」</strong>
 </p>
+![ei](./ei.png)
 
 ## 导入
 运行Rainbow Fart，点击import，选择zip文件，或打开voice package directory，手动复制文件夹。
