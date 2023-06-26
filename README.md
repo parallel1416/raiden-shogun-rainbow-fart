@@ -2,7 +2,7 @@
 御建鸣神主尊大御所大人语音包
 </h1>
 VScode彩虹屁插件 [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) 语音扩展包，《原神》雷电将军日配，支持语言：C++
-编写出臻于完美的Baal程序的她，不介意在你身旁指点一二。
+<p>编写出臻于完美的Baal程序的她，不介意在你身旁指点一二。</p>
 
 <p align="center">
 <strong>「 2023.6.23 雷电影生日快乐！ 」</strong>
