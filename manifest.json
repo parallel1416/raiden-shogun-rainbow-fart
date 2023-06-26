@@ -1,0 +1,184 @@
+{
+  "name": "shogun",
+  "display-name": "shogun's orders",
+  "version": "1.0.0",
+  "description": "VSCode 雷电将军语音包扩展（日配）",
+  "avatar": "raiden-1.png",
+  "avatar-dark": "raiden-2.png",
+  "author": "prl",
+  "gender": "female",
+  "languages": [
+      "C++"
+  ],
+  "contributes": [
+    {
+      "keywords": [
+         "include"
+      ],
+      "voices": [
+        "include_01.mp3",
+        "include_02.mp3",
+        "include_03.mp3",
+        "include_04.mp3"
+      ]
+    },
+    {
+      "keywords": [
+         "void"
+      ],
+      "voices": [
+        "void_01.mp3",
+        "void_02.mp3",
+        "void_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+         "namespace"
+      ],
+      "voices": [
+        "namespace_01.mp3"
+      ]
+    },
+    {
+      "keywords": [
+         "friend"
+      ],
+      "voices": [
+        "friend_01.mp3",
+        "friend_02.mp3",
+        "friend_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+         "return"
+      ],
+      "voices": [
+        "return_01.mp3",
+        "return_02.mp3",
+        "return_03.mp3",
+        "return_04.mp3",
+        "return_05.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "break",
+        "continue"
+      ],
+      "voices": [
+        "break_01.mp3",
+        "break_02.mp3",
+        "break_03.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "if",
+        "else",
+        "switch"
+      ],
+      "voices": [
+        "if_01.mp3",
+        "if_02.mp3",
+        "if_03.mp3",
+        "if_04.mp3",
+        "if_05.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "for",
+        "while",
+        "do"
+      ],
+      "voices": [
+        "for_01.mp3",
+        "for_02.mp3",
+        "for_03.mp3",
+        "for_04.mp3",
+        "for_05.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "?",
+        "!",
+        "&&",
+        "||",
+        "->"
+      ],
+      "voices": [
+        "ask_01.mp3",
+        "ask_02.mp3",
+        "ask_03.mp3",
+        "ask_04.mp3"
+      ]
+    },
+    {
+      "keywords": [
+         "class",
+         "struct"
+      ],
+      "voices": [
+        "class_01.mp3",
+        "class_02.mp3",
+        "class_03.mp3",
+        "class_04.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "time_morning_01.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_before_noon"
+      ],
+      "voices": [
+       "time_before_noon_01.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "time_noon_01.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "time_evening_01.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "time_midnight_01.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "time_each_hour_01.mp3",
+        "time_each_hour_02.mp3",
+        "time_each_hour_03.mp3",
+        "time_each_hour_04.mp3",
+        "time_each_hour_05.mp3"
+      ]
+    }
+  ]
+}
